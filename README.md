@@ -10,6 +10,9 @@ Welcome to the Currency Converter App! This React.js application allows you to c
 
 3. **Swap Option:** Easily swap the selected currencies with a single click, providing a convenient and quick way to reverse your conversion.
 
+## Access code in
+"Currency-Convertor\Codes\src\App.jsx"
+
 ## Screenshots
 ![image](https://github.com/omkarkulkarnii/Currency-Convertor/assets/139356827/e0c15eaf-9889-4583-ace0-adcc61dbd716)
 ![image](https://github.com/omkarkulkarnii/Currency-Convertor/assets/139356827/abf32ea0-fda9-4d1f-a040-34e46c1de2a0)
