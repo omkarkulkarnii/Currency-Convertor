@@ -1,4 +1,4 @@
-# Currency Converter App
+# Currency Converter App using Custom React Hooks
 
 Welcome to the Currency Converter App! This React.js application allows you to convert various currencies in real-time using API calls. The app provides a user-friendly interface with a wide range of currency options, and it updates exchange rates dynamically.
 
